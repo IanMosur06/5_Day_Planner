@@ -1,6 +1,6 @@
 #05 Third Party APIs: Work Day Scheduler
 
-##Description
+## Description
 The task is to create a calender application that we would be able to store and track any events with each hour of the day with modified starter code. This app will run and use programs such as HTML, CSS, as well as javascript powered by jquery.
 
 ## User Story
