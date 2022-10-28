@@ -3,6 +3,13 @@
 ## Description
 The task is to create a calender application that we would be able to store and track any events with each hour of the day with modified starter code. This app will run and use programs such as HTML, CSS, as well as javascript powered by jquery.
 
+## Links
+- My GitHub repository: https://github.com/IanMosur06/challenge_5_Day_Planner
+- Webpages live server: https://ianmosur06.github.io/challenge_5_Day_Planner/
+
+## ScreenShot
+![Work day planner](./Assets/images/Screenshot.PNG)
+
 ## User Story
 
 ```md
